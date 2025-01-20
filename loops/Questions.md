@@ -20,7 +20,7 @@ tabular form.
  Write a C++ program to print sum of all even numbers from 50 to 250 using for loop
 
 # Question No. 7
- while loop
+ Write upper upper program using while loop
 
 # Question No. 8
  Write a C++ program using a while loop to calculate the factorial of a given positive integer
